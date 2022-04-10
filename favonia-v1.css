@@ -1,0 +1,25 @@
+/**
+* @name Favonia
+* @version Auto Update
+* @description sex :0
+* @author emhagie
+* @invite null
+* @Source https://github.com/EmHaGie/BD-Theme
+* @website null
+*/
+@import url("https://emhagie.github.io/BD-Theme/main.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #fff1a0;
+--themeColor2: #fff1a0;
+--customFont: 'Open Sans';
+--homeImage: url('https://github.com/EmHaGie/BD-Theme/blob/main/images/app_logo.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://limeshark.dev/img/bdi/n8b.jpg');
+--backgroundPosition: top;
+--backgroundSize: contain;
+--backgroundRepeat: repeat-x;
+--backgroundBlur: 38px;
+--backgroundOpacity: 0.25;
+}
